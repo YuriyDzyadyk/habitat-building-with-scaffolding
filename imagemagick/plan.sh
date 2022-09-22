@@ -1,4 +1,5 @@
 pkg_name=imagemagick
+pkg_name=meme-machine-package
 pkg_origin=yd_initials_tryhabitat
 pkg_version=7.1.0-17
 pkg_description="A software suite to create, edit, compose, or convert images."
